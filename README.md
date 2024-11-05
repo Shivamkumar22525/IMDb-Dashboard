@@ -1,10 +1,12 @@
 # IMDb-Dashboard
 Tableau Project
 
-Project Overview
+**Project Overview**
+
 The IMDb Rating Dashboard is an interactive visualization project designed to explore various aspects of the movie industry. Built using Tableau, the dashboard provides insights into audience engagement, movie genre trends, revenue growth, and other key metrics over time. It serves as a resource for understanding the factors that contribute to a movie’s success.
 
 **Key Features**
+
 Top 10 Movies by Number of Votes: A bar chart listing the most popular movies based on the number of audience votes, with classics like The Shawshank Redemption, The Dark Knight, and Inception topping the list.
 
 Certificates by Total Movies: A bar chart showing the distribution of certification categories (e.g., R, PG, PG-13) across all movies.
@@ -20,9 +22,11 @@ IMDb Rating by Top 10 Genres: A box plot comparing IMDb ratings across the top 1
 Meta Score by Top 10 Stars: A bar chart displaying average meta scores of top actors, providing insight into star power and critical reception.
 
 **Insights and Applications**
+
 This dashboard is ideal for data analysts, movie producers, and enthusiasts interested in exploring movie data and trends. By analyzing genres, certifications, revenue, and star impact, users can gain insights that may inform decisions about future movie projects and understand patterns in audience and critic preferences.
 
 **Technologies Used**
+
 Tableau: Used for creating an interactive and visually engaging dashboard.
 
 IMDb Dataset: Source of information on movies, including votes, genres, revenue, certifications, and meta scores.
